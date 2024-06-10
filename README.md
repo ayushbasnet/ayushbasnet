@@ -1,6 +1,6 @@
 ![the picture](./header.svg)
 
-<h3 align="center">I am an undergrad student currently studying BSc CSIT in Nepal.</h3>
+<h3 align="center">I am a BSc CSIT graduate currently residing in Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushbasnet&label=Profile%20views&color=0e75b6&style=flat" alt="ayushbasnet" /> </p>
 
